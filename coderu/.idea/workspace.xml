@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a49be900-22af-452f-9d2d-b72f6d24c557" name="Default Changelist" comment="" />
+    <list default="true" id="a49be900-22af-452f-9d2d-b72f6d24c557" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,6 +17,7 @@
     <session id="-834961970">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -53,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/batteries.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -69,7 +72,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -90,7 +93,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="62" />
     <option name="y" value="7" />
     <option name="width" value="1346" />
@@ -151,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536601724249</updated>
-      <workItem from="1536601726327" duration="14032000" />
+      <workItem from="1536601726327" duration="16609000" />
     </task>
     <task id="LOCAL-00001" summary="Add chessboard">
       <created>1536601970190</created>
@@ -164,10 +167,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14032000" />
+    <option name="totallyTimeSpent" value="16609000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="62" y="7" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -209,8 +212,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/batteries.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
         </state>
       </provider>
     </entry>
